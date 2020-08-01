@@ -1,0 +1,21 @@
+{
+    "name": "masons-vscode-theme",
+    "displayName": "masons-vscode-theme",
+    "description": "mason's vscode theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "masons-vscode-theme",
+                "uiTheme": "vs",
+                "path": "./themes/masons-vscode-theme-color-theme.json"
+            }
+        ]
+    }
+}
