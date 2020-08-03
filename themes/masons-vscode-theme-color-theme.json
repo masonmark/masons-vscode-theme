@@ -20,8 +20,8 @@
 		"editor.foreground": "#586e75",
 		"editor.lineHighlightBorder": "#99ccff25",
 		"editor.selectionBackground": "#ff69b469",
-		"editor.wordHighlightBackground": "#000",
-		"editor.wordHighlightStrongBackground": "#000",
+		"editor.wordHighlightBackground": "#dcebfc69",
+		"editor.wordHighlightStrongBackground": "#dcebfc69",
 		"editorBracketMatch.background": "#99ccff",
 		"editorBracketMatch.border": "#00000069",
 		"editorCursor.foreground": "#000000",
@@ -218,7 +218,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#007376"
 			}
 		},
 		{
