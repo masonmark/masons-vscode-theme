@@ -106,7 +106,8 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"fontStyle": "",
+				"foreground": "#AAAAAA"
 			}
 		},
 		{
@@ -120,6 +121,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#777777"
 			}
 		},
@@ -130,7 +132,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#323d7d"
 			}
 		},
 		{
@@ -140,7 +142,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#577fa8"
 			}
 		},
 		{
@@ -151,7 +153,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#577fa8"
 			}
 		},
 		{
@@ -161,7 +163,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#000"
 			}
 		},
 		{
@@ -172,7 +174,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AA3731"
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -184,7 +186,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#7A3E9D"
+				"foreground": "#577fa8"
 			}
 		},
 		{
@@ -216,7 +218,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#000"
 			}
 		},
 		{
@@ -402,7 +404,7 @@
 			"name": "Markup: Heading",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#AA3731"
+				"foreground": "#000000"
 			}
 		},
 		{
