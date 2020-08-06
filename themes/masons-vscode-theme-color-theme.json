@@ -78,6 +78,7 @@
 		"terminal.ansiYellow": "#c7c60a",
 		"terminal.background": "#000000",
 		"terminal.foreground": "#54ff3a",
+		"terminal.selectionBackground": "#ff69b488",
 		"widget.shadow": "#555555",	},
 	"tokenColors": [
 		{
