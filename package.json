@@ -2,6 +2,7 @@
     "name": "masons-vscode-theme",
     "displayName": "masons-vscode-theme",
     "description": "mason's vscode theme",
+    "repository": { "type": "git", "url": "https://github.com/masonmark/masons-vscode-theme.git" },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.47.0"

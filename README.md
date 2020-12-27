@@ -11,9 +11,11 @@ Also, this theme will actually probably never be finished and always objectively
 I won't publish this on the extension marketplace until the sentence above has been disproven, so to install this theme you need to download it, whack the whole `masons-vscode-theme` folder into your `~/.vscode/extensions`, chug two [picklebacks](https://en.wikipedia.org/wiki/Pickleback), and then go to town.
 
 ## before
+
 <img src='whatever/wat.jpg' size="50%">
 
 ## after
+
 <img src='whatever/aah.jpg' size="50%">
 
 以上
